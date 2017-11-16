@@ -1,0 +1,118 @@
+Log - 10/28/2017 11:38:02 AM : ======================Init ProductsVerify Test
+Log - 10/28/2017 11:38:02 AM : Navigate to Product Page
+Log - 10/28/2017 11:38:04 AM : Method Get UI List
+Log - 10/28/2017 11:38:04 AM : Method Get DB List
+Log - 10/28/2017 11:38:05 AM : Method CompareList
+Log - 10/28/2017 11:38:23 AM : ======================Init ProductsVerify Test
+Log - 10/28/2017 11:38:24 AM : Navigate to Product Page
+Log - 10/28/2017 11:38:26 AM : Method Get UI List
+Log - 10/28/2017 11:38:29 AM : Method Get Starts
+Log - 10/28/2017 11:38:31 AM : Method Get Starts
+Log - 10/28/2017 11:38:32 AM : Method Get Starts
+Log - 10/28/2017 11:38:35 AM : Method Get DB List
+Log - 10/28/2017 11:38:36 AM : Method CompareList
+Log - 10/28/2017 11:57:22 AM : ======================Init ProductsVerify Test
+Log - 10/28/2017 11:57:24 AM : Navigate to Product Page
+Log - 10/28/2017 11:57:28 AM : Method Get UI List
+Log - 10/28/2017 11:59:58 AM : ======================Init ProductsVerify Test
+Log - 10/28/2017 11:59:59 AM : Navigate to Product Page
+Log - 10/28/2017 12:00:02 PM : Method Get UI List
+Log - 09/11/2017 11:00:35 p. m. : ======================Init ProductsVerify Test
+Log - 09/11/2017 11:00:35 p. m. : Navigate to Product Page
+Log - 12/11/2017 12:45:01 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 12:45:02 a. m. : Navigate to Product Page
+Log - 12/11/2017 12:49:15 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 12:49:15 a. m. : Navigate to Product Page
+Log - 12/11/2017 12:49:21 a. m. : Method Get UI List
+Log - 12/11/2017 12:49:22 a. m. : Method Get DB List
+Log - 12/11/2017 12:55:39 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 12:55:39 a. m. : Navigate to Product Page
+Log - 12/11/2017 12:55:50 a. m. : Method Get UI List
+Log - 12/11/2017 12:59:41 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 12:59:41 a. m. : Navigate to Product Page
+Log - 12/11/2017 12:59:57 a. m. : Method Get UI List
+Log - 12/11/2017 12:59:59 a. m. : Method Get Starts
+Log - 12/11/2017 12:59:59 a. m. : Method Get Starts
+Log - 12/11/2017 12:59:59 a. m. : Method Get Starts
+Log - 12/11/2017 12:59:59 a. m. : Method Get Starts
+Log - 12/11/2017 12:59:59 a. m. : Method Get DB List
+Log - 12/11/2017 01:01:59 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 01:02:07 a. m. : Navigate to Product Page
+Log - 12/11/2017 01:03:32 a. m. : Method Get UI List
+Log - 12/11/2017 01:06:27 a. m. : Method Get Starts
+Log - 12/11/2017 01:06:39 a. m. : Method Get Starts
+Log - 12/11/2017 01:06:44 a. m. : Method Get Starts
+Log - 12/11/2017 01:06:48 a. m. : Method Get Starts
+Log - 12/11/2017 01:06:55 a. m. : Method Get DB List
+Log - 12/11/2017 01:25:04 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 01:25:04 a. m. : Navigate to Product Page
+Log - 12/11/2017 01:25:12 a. m. : Method Get UI List
+Log - 12/11/2017 01:25:13 a. m. : Method Get Starts
+Log - 12/11/2017 01:25:13 a. m. : Method Get Starts
+Log - 12/11/2017 01:25:13 a. m. : Method Get Starts
+Log - 12/11/2017 01:25:13 a. m. : Method Get Starts
+Log - 12/11/2017 01:25:13 a. m. : Method Get DB List
+Log - 12/11/2017 10:13:53 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 10:13:53 a. m. : Navigate to Product Page
+Log - 12/11/2017 10:14:02 a. m. : Method Get UI List
+Log - 12/11/2017 10:14:03 a. m. : Method Get DB List
+Log - 12/11/2017 10:14:06 a. m. : Method CompareList
+Log - 12/11/2017 10:18:44 a. m. : ======================Init ProductsVerify Test
+Log - 12/11/2017 10:18:44 a. m. : Navigate to Product Page
+Log - 12/11/2017 10:18:50 a. m. : Method Get UI List
+Log - 13/11/2017 10:14:50 p. m. : Navigate to Product Page
+Log - 13/11/2017 10:21:37 p. m. : Navigate to Product Page
+Log - 13/11/2017 10:41:23 p. m. : Navigate to Product Page
+Log - 13/11/2017 10:46:13 p. m. : ======================Init ProductsVerify Test
+Log - 13/11/2017 10:46:14 p. m. : Navigate to Product Page
+Log - 13/11/2017 10:46:18 p. m. : Method Get UI List
+Log - 13/11/2017 10:46:19 p. m. : Method Get Starts
+Log - 13/11/2017 10:46:19 p. m. : Method Get Starts
+Log - 13/11/2017 10:46:19 p. m. : Method Get Starts
+Log - 13/11/2017 10:46:19 p. m. : Method Get Starts
+Log - 13/11/2017 10:46:20 p. m. : Method Get DB List
+Log - 13/11/2017 10:46:20 p. m. : Method CompareList
+Log - 13/11/2017 10:46:24 p. m. : Navigate to Product Page
+Log - 13/11/2017 10:47:48 p. m. : Navigate to Product Page
+Log - 13/11/2017 11:06:08 p. m. : ======================Init ProductsVerify Test
+Log - 13/11/2017 11:06:08 p. m. : Navigate to Product Page
+Log - 13/11/2017 11:06:11 p. m. : Method Get UI List
+Log - 13/11/2017 11:06:13 p. m. : Method Get Starts
+Log - 13/11/2017 11:06:13 p. m. : Method Get Starts
+Log - 13/11/2017 11:06:13 p. m. : Method Get Starts
+Log - 13/11/2017 11:06:13 p. m. : Method Get Starts
+Log - 13/11/2017 11:06:13 p. m. : Method Get DB List
+Log - 13/11/2017 11:06:17 p. m. : Method CompareList
+Log - 13/11/2017 11:20:11 p. m. : Navigate to Product Page
+Log - 13/11/2017 11:38:29 p. m. : Navigate to Product Page
+Log - 13/11/2017 11:48:15 p. m. : Navigate to Product Page
+Log - 14/11/2017 12:02:00 a. m. : Navigate to Product Page
+Log - 14/11/2017 12:06:42 a. m. : Navigate to Product Page
+Log - 14/11/2017 12:10:53 a. m. : Navigate to Product Page
+Log - 14/11/2017 10:28:15 p. m. : Navigate to Product Page
+Log - 14/11/2017 10:56:33 p. m. : Navigate to Product Page
+Log - 14/11/2017 11:03:45 p. m. : Navigate to Product Page
+Log - 14/11/2017 11:07:32 p. m. : Navigate to Product Page
+Log - 14/11/2017 11:23:31 p. m. : ======================Init ProductsVerify Test
+Log - 14/11/2017 11:23:31 p. m. : Navigate to Product Page
+Log - 14/11/2017 11:24:10 p. m. : Method Get UI List
+Log - 14/11/2017 11:38:55 p. m. : ======================Init ProductsVerify Test
+Log - 14/11/2017 11:38:56 p. m. : Navigate to Product Page
+Log - 14/11/2017 11:39:05 p. m. : Method Get UI List
+Log - 14/11/2017 11:40:14 p. m. : Method Get Starts
+Log - 15/11/2017 12:24:46 a. m. : Navigate to Product Page
+Log - 15/11/2017 12:28:56 a. m. : ======================Init ProductsVerify Test
+Log - 15/11/2017 12:28:56 a. m. : Navigate to Product Page
+Log - 15/11/2017 12:29:06 a. m. : Method Get UI List
+Log - 15/11/2017 12:29:17 a. m. : Method Get Starts
+Log - 15/11/2017 12:29:51 a. m. : Method Get Starts
+Log - 15/11/2017 12:36:14 a. m. : Navigate to Product Page
+Log - 15/11/2017 12:38:31 a. m. : Navigate to Product Page
+Log - 15/11/2017 12:47:15 a. m. : Navigate to Product Page
+Log - 15/11/2017 12:48:56 a. m. : Navigate to Product Page
+Log - 15/11/2017 12:51:06 a. m. : Navigate to Product Page
+Log - 15/11/2017 12:52:51 a. m. : Navigate to Product Page
+Log - 15/11/2017 01:51:17 a. m. : Navigate to Product Page
+Log - 15/11/2017 01:53:42 a. m. : Navigate to Product Page
+Log - 15/11/2017 08:21:06 p. m. : Navigate to Product Page
+Log - 15/11/2017 08:35:15 p. m. : Navigate to Product Page
