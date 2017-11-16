@@ -1,0 +1,32 @@
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrdersAPI_Test3.dll.config
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrdersAPI_Test3.dll
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrdersAPI_Test3.pdb
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.dll
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\Newtonsoft.Json.dll
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.xml
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\Newtonsoft.Json.xml
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\obj\Debug\OrdersAPI_Test3.dll
+c:\users\labb2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\obj\Debug\OrdersAPI_Test3.pdb
+C:\Users\LabB2\Documents\Visual Studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrderedTest1.orderedtest
+C:\Users\LabB2\documents\visual studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\obj\Debug\OrdersAPI_Test3.csprojResolveAssemblyReference.cache
+C:\Users\LabB2\Documents\Visual Studio 2015\Projects\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\LoadTest1.loadtest
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\LoadTest1.loadtest
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrderedTest1.orderedtest
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrdersAPI_Test3.dll.config
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrdersAPI_Test3.dll
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\OrdersAPI_Test3.pdb
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.dll
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\Newtonsoft.Json.dll
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.xml
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\Newtonsoft.Json.xml
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\obj\Debug\OrdersAPI_Test3.dll
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\obj\Debug\OrdersAPI_Test3.pdb
+C:\Cecita\Diplomado\Mio\OrdersAPI_Test3\OrdersAPI_Test3\obj\Debug\OrdersAPI_Test3.csprojResolveAssemblyReference.cache
